@@ -1,0 +1,15 @@
+C:\Users\ivani\Desktop\Practica\practicanet\bin\Debug\net8.0\practicanet.exe
+C:\Users\ivani\Desktop\Practica\practicanet\bin\Debug\net8.0\practicanet.deps.json
+C:\Users\ivani\Desktop\Practica\practicanet\bin\Debug\net8.0\practicanet.runtimeconfig.json
+C:\Users\ivani\Desktop\Practica\practicanet\bin\Debug\net8.0\practicanet.dll
+C:\Users\ivani\Desktop\Practica\practicanet\bin\Debug\net8.0\practicanet.pdb
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.AssemblyInfoInputs.cache
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.AssemblyInfo.cs
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.csproj.CoreCompileInputs.cache
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.sourcelink.json
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.dll
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\refint\practicanet.dll
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.pdb
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\practicanet.genruntimeconfig.cache
+C:\Users\ivani\Desktop\Practica\practicanet\obj\Debug\net8.0\ref\practicanet.dll
